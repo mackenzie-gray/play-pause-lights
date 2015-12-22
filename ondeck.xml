@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="14" allowSync="0" identifier="com.plexapp.plugins.library" mediaTagPrefix="/system/bundle/media/flags/" mediaTagVersion="1446834386" mixedParents="1">
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="181" key="/library/metadata/181" studio="Annapurna Pictures" type="movie" title="Her" contentRating="R" summary="In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user&apos;s every needs. To Theordore&apos;s surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all." rating="7.9" viewOffset="1631738" lastViewedAt="1450731815" year="2013" tagline="A Spike Jonze Love Story" thumb="/library/metadata/181/thumb/1450291868" art="/library/metadata/181/art/1450291868" duration="7550425" originallyAvailableAt="2013-12-18" addedAt="1450291844" updatedAt="1450291868" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="mixed" primaryExtraKey="/library/metadata/182" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="1080" id="302" duration="7550425" bitrate="11526" width="1920" height="1036" aspectRatio="1.85" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="302" key="/library/parts/302/file.mkv" duration="7550425" file="M:\Movies\Her (2013)\Her (2013) 1080p Blu-ray.mkv" size="10878172379" container="mkv" />
+</Media>
+<Genre tag="Romance" />
+<Genre tag="Science Fiction" />
+<Genre tag="Drama" />
+<Writer tag="Spike Jonze" />
+<Director tag="Spike Jonze" />
+<Country tag="USA" />
+<Role tag="Joaquin Phoenix" />
+<Role tag="Scarlett Johansson" />
+<Role tag="Rooney Mara" />
+</Video>
+<Video allowSync="1" librarySectionID="2" librarySectionTitle="TV Shows" librarySectionUUID="8fb29df7-38c1-4936-a07e-0a5aa68c1739" ratingKey="243" key="/library/metadata/243" parentRatingKey="244" grandparentRatingKey="241" type="episode" title="Inside Apple, Michael Caine" grandparentKey="/library/metadata/241" parentKey="/library/metadata/244" grandparentTitle="60 Minutes" summary="Apple CEO Tim Cook addresses issues concerning his company including encryption technology, corporate taxes, and manufacturing products in China; and, Michael Caine, the veteran British actor who&apos;s made dozens of films and won two Oscars over 50 years, is still going strong as a leading man at the age of 82." index="13" parentIndex="48" viewOffset="2255089" lastViewedAt="1450731813" year="2015" thumb="/library/metadata/243/thumb/1450716344" art="/library/metadata/241/art/1450716344" grandparentThumb="/library/metadata/241/thumb/1450716344" grandparentArt="/library/metadata/241/art/1450716344" grandparentTheme="/library/metadata/241/theme/1450716344" duration="2556459" originallyAvailableAt="2015-12-20" addedAt="1450716321" updatedAt="1450716344" chapterSource="">
+<Media videoResolution="sd" id="465" duration="2556459" bitrate="704" width="720" height="364" aspectRatio="1.78" audioChannels="2" audioCodec="aac" videoCodec="h264" container="mp4" videoFrameRate="NTSC" optimizedForStreaming="0" has64bitOffsets="0">
+<Part id="465" key="/library/parts/465/file.mp4" duration="2556459" file="M:\Television\60 Minutes\Season 48\60 Minutes - 2015-12-20 - Inside Apple, Michael Caine SDTV.mp4" size="225095093" container="mp4" has64bitOffsets="0" optimizedForStreaming="0" />
+</Media>
+</Video>
+<Video allowSync="1" librarySectionID="2" librarySectionTitle="TV Shows" librarySectionUUID="8fb29df7-38c1-4936-a07e-0a5aa68c1739" ratingKey="40" key="/library/metadata/40" parentRatingKey="33" grandparentRatingKey="30" type="episode" title="Interdimensional Cable 2: Tempting Fate" grandparentKey="/library/metadata/30" parentKey="/library/metadata/33" grandparentTitle="Rick and Morty" contentRating="TV-14" summary="Jerry gets sick, and Rick sparks up the TV." index="8" parentIndex="2" rating="6.3" year="2015" thumb="/library/metadata/40/thumb/1449696038" art="/library/metadata/30/art/1449696038" parentThumb="/library/metadata/33/thumb/1449696038" grandparentThumb="/library/metadata/30/thumb/1449696038" grandparentArt="/library/metadata/30/art/1449696038" grandparentTheme="/library/metadata/30/theme/1449696038" duration="1353312" originallyAvailableAt="2015-09-20" addedAt="1449633929" updatedAt="1449696038" chapterSource="">
+<Media videoResolution="1080" id="69" duration="1353312" bitrate="5562" width="1916" height="1076" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="69" key="/library/parts/69/file.mkv" duration="1353312" file="M:\Television\Rick and Morty\Season 02\Rick and Morty - S02E08 - Interdimensional Cable 2- Tempting Fate WEBDL-1080p.mkv" size="940902110" container="mkv" />
+</Media>
+<Writer tag="Dan Guterman" />
+<Writer tag="Ryan Ridley" />
+<Writer tag="Justin Roiland" />
+<Director tag="Juan Meza-León" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="186" key="/library/metadata/186" studio="Unison Films" type="movie" title="What We Do in the Shadows" contentRating="R" summary="Follow the lives of Viago, Deacon, and Vladislav - three flatmates who are just trying to get by and overcome life&apos;s obstacles-like being immortal vampires who must feast on human blood. Hundreds of years old, the vampires are finding that beyond sunlight catastrophes, hitting the main artery, and not being able to get a sense of their wardrobe without a reflection, modern society has them struggling with the mundane like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts." rating="7.3" viewOffset="958216" lastViewedAt="1450667617" year="2015" tagline="Some interviews with some vampires" thumb="/library/metadata/186/thumb/1450292990" art="/library/metadata/186/art/1450292990" duration="5123917" originallyAvailableAt="2015-02-13" addedAt="1450292980" updatedAt="1450292990" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="mixed" primaryExtraKey="/library/metadata/187" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="1080" id="315" duration="5123917" bitrate="10990" width="1920" height="1040" aspectRatio="1.85" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="315" key="/library/parts/315/file.mkv" duration="5123917" file="M:\Movies\What We Do in the Shadows (2014)\What We Do in the Shadows (2014) 1080p Blu-ray.mkv" size="7039266024" container="mkv" />
+</Media>
+<Genre tag="Comedy" />
+<Genre tag="Horror" />
+<Writer tag="Jemaine Clement" />
+<Writer tag="Taika Waititi" />
+<Director tag="Jemaine Clement" />
+<Director tag="Taika Waititi" />
+<Country tag="New Zealand" />
+<Role tag="Taika Waititi" />
+<Role tag="Jemaine Clement" />
+<Role tag="Jonathan Brugh" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="239" key="/library/metadata/239" studio="Twentieth Century Fox Film Corporation" type="movie" title="Home Alone" contentRating="PG" summary="Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin&apos;s house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before." rating="6.8" viewOffset="4866887" lastViewedAt="1450653380" year="1990" tagline="A Family Comedy Without the Family." thumb="/library/metadata/239/thumb/1450642038" art="/library/metadata/239/art/1450642038" duration="6174174" originallyAvailableAt="1990-11-09" addedAt="1450641993" updatedAt="1450642038" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" primaryExtraKey="/library/metadata/240" ratingImage="rottentomatoes://image.rating.rotten">
+<Media videoResolution="1080" id="460" duration="6174174" bitrate="14753" width="1920" height="1040" aspectRatio="1.85" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="460" key="/library/parts/460/file.mkv" duration="6174174" file="M:\Movies\Home Alone (1990)\Home Alone (1990) 1080p Blu-ray.mkv" size="11385837760" container="mkv" />
+</Media>
+<Genre tag="Comedy" />
+<Genre tag="Family" />
+<Writer tag="John Hughes" />
+<Director tag="Chris Columbus" />
+<Country tag="USA" />
+<Role tag="Macaulay Culkin" />
+<Role tag="Joe Pesci" />
+<Role tag="Daniel Stern" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="208" key="/library/metadata/208" studio="Universal Pictures" type="movie" title="Everest" contentRating="PG-13" summary="Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world&apos;s highest mountain, &quot;Everest&quot; documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival." rating="6.7" viewOffset="187622" viewCount="1" lastViewedAt="1450553050" year="2015" tagline="The Storm Awaits." thumb="/library/metadata/208/thumb/1450491022" art="/library/metadata/208/art/1450491022" duration="7270496" originallyAvailableAt="2015-09-25" addedAt="1450490983" updatedAt="1450491022" chapterSource="" primaryExtraKey="/library/metadata/209">
+<Media videoResolution="1080" id="375" duration="7270496" bitrate="9387" width="1920" height="808" aspectRatio="2.35" audioChannels="6" audioCodec="ac3" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="375" key="/library/parts/375/file.mkv" duration="7270496" file="M:\Movies\Everest (2015)\Everest (2015) 1080p Blu-ray.mkv" size="8531375661" container="mkv" />
+</Media>
+<Genre tag="Thriller" />
+<Genre tag="Adventure" />
+<Genre tag="Drama" />
+<Writer tag="Simon Beaufoy" />
+<Writer tag="William Nicholson" />
+<Director tag="Baltasar Kormákur" />
+<Country tag="Iceland" />
+<Country tag="USA" />
+<Country tag="United Kingdom" />
+<Role tag="Jason Clarke" />
+<Role tag="Jake Gyllenhaal" />
+<Role tag="Josh Brolin" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="80" key="/library/metadata/80" studio="On The Corner Films" type="movie" title="Amy" contentRating="R" summary="A documentary on the late singer/songwriter, who died of alcohol poisoning in 2011." rating="7.1" viewOffset="92822" viewCount="1" lastViewedAt="1450552682" year="2015" tagline="The girl behind the name." thumb="/library/metadata/80/thumb/1449687416" art="/library/metadata/80/art/1449687416" duration="7356128" originallyAvailableAt="2015-07-10" addedAt="1449687400" updatedAt="1449687416" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" primaryExtraKey="/library/metadata/81" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="1080" id="147" duration="7356128" bitrate="10208" width="1920" height="1040" aspectRatio="1.85" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="PAL">
+<Part id="147" key="/library/parts/147/file.mkv" duration="7356128" file="M:\Movies\Amy (2015)\Amy (2015) 1080p Blu-ray.mkv" size="9386306140" container="mkv" />
+</Media>
+<Genre tag="Music" />
+<Genre tag="Documentary" />
+<Writer tag="Asif Kapadia" />
+<Director tag="Asif Kapadia" />
+<Country tag="United Kingdom" />
+<Role tag="Amy Winehouse" />
+<Role tag="Mark Ronson" />
+<Role tag="Tony Bennett" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="173" key="/library/metadata/173" studio="Twentieth Century Fox Film Corporation" type="movie" title="Spy" contentRating="R" summary="A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster." rating="7.1" viewOffset="2619984" lastViewedAt="1450362461" year="2015" tagline="One of the guys. One of the Spies." thumb="/library/metadata/173/thumb/1450235157" art="/library/metadata/173/art/1450235157" duration="7822955" originallyAvailableAt="2015-06-05" addedAt="1450235141" updatedAt="1450235157" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="mixed" primaryExtraKey="/library/metadata/174" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="1080" id="280" duration="7822955" bitrate="14072" width="1920" height="808" aspectRatio="2.35" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="280" key="/library/parts/280/file.mkv" duration="7822955" file="M:\Movies\Spy (2015)\Spy (2015) 1080p Blu-ray.mkv" size="13760947147" container="mkv" />
+</Media>
+<Genre tag="Crime" />
+<Genre tag="Action" />
+<Genre tag="Comedy" />
+<Writer tag="Paul Feig" />
+<Director tag="Paul Feig" />
+<Country tag="USA" />
+<Role tag="Melissa McCarthy" />
+<Role tag="Jude Law" />
+<Role tag="Jason Statham" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="1" key="/library/metadata/1" studio="Marvel Studios" type="movie" title="Ant-Man" contentRating="PG-13" summary="Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world." rating="6.9" viewOffset="1505900" lastViewedAt="1449978155" year="2015" tagline="Heroes Don&apos;t Get Any Bigger" thumb="/library/metadata/1/thumb/1449630507" art="/library/metadata/1/art/1449630507" duration="7026652" originallyAvailableAt="2015-07-17" addedAt="1448432083" updatedAt="1449630507" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="mixed" primaryExtraKey="/library/metadata/12" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="1080" id="1" duration="7026652" bitrate="12377" width="1920" height="1038" aspectRatio="1.85" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="1" key="/library/parts/1/file.mkv" duration="7026652" file="M:\Movies\Ant-Man (2015)\Ant-Man (2015) 1080p Blu-ray.mkv" size="10870869906" container="mkv" />
+</Media>
+<Genre tag="Science Fiction" />
+<Genre tag="Action" />
+<Genre tag="Adventure" />
+<Writer tag="Adam McKay" />
+<Writer tag="Edgar Wright" />
+<Writer tag="Joe Cornish" />
+<Director tag="Peyton Reed" />
+<Country tag="USA" />
+<Role tag="Paul Rudd" />
+<Role tag="Michael Douglas" />
+<Role tag="Evangeline Lilly" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="82" key="/library/metadata/82" studio="Walt Disney Pictures" type="movie" title="Pirates of the Caribbean: At World&apos;s End" contentRating="PG-13" summary="Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with brave Will Turner and feisty Elizabeth Swann. And what of Jack Sparrow? Nothing is as it seems." rating="6.7" viewOffset="72353" lastViewedAt="1449971852" year="2007" tagline="At the end of the world, the adventure begins." thumb="/library/metadata/82/thumb/1449689090" art="/library/metadata/82/art/1449689090" duration="10110110" originallyAvailableAt="2007-05-19" addedAt="1449689080" updatedAt="1449689090" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="agent" ratingImage="rottentomatoes://image.rating.rotten">
+<Media videoResolution="1080" id="151" duration="10110110" bitrate="8667" width="1920" height="800" aspectRatio="2.35" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="151" key="/library/parts/151/file.mkv" duration="10110110" file="M:\Movies\Pirates of the Caribbean At World&apos;s End (2007)\Pirates of the Caribbean At World&apos;s End (2007) 1080p Blu-ray.mkv" size="10952690786" container="mkv" />
+</Media>
+<Genre tag="Adventure" />
+<Genre tag="Fantasy" />
+<Genre tag="Action" />
+<Writer tag="Ted Elliott" />
+<Writer tag="Terry Rossio" />
+<Director tag="Gore Verbinski" />
+<Country tag="USA" />
+<Role tag="Johnny Depp" />
+<Role tag="Orlando Bloom" />
+<Role tag="Keira Knightley" />
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="85" key="/library/metadata/85" studio="Universal Pictures" type="movie" title="Minions" contentRating="PG" summary="Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world." rating="6.8" viewOffset="115632" lastViewedAt="1449944374" year="2015" tagline="Before Gru, they had a history of bad bosses" thumb="/library/metadata/85/thumb/1449715974" art="/library/metadata/85/art/1449715974" duration="5458016" originallyAvailableAt="2015-07-10" addedAt="1449715960" updatedAt="1449715974" audienceRatingImage="rottentomatoes://image.rating.spilled" chapterSource="agent" primaryExtraKey="/library/metadata/86" ratingImage="rottentomatoes://image.rating.rotten">
+<Media videoResolution="1080" id="154" duration="5458016" bitrate="15384" width="1920" height="1036" aspectRatio="1.85" audioChannels="2" audioCodec="ac3" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="154" key="/library/parts/154/file.mkv" duration="5458016" file="M:\Movies\Minions (2015)\Minions (2015) 1080p Blu-ray.mkv" size="10495879446" container="mkv" />
+</Media>
+<Genre tag="Family" />
+<Genre tag="Animation" />
+<Genre tag="Adventure" />
+<Writer tag="Brian Lynch" />
+<Director tag="Kyle Balda" />
+<Director tag="Pierre Coffin" />
+<Country tag="USA" />
+<Role tag="Sandra Bullock" />
+<Role tag="Jon Hamm" />
+<Role tag="Michael Keaton" />
+</Video>
+<Video allowSync="1" librarySectionID="2" librarySectionTitle="TV Shows" librarySectionUUID="8fb29df7-38c1-4936-a07e-0a5aa68c1739" ratingKey="38" key="/library/metadata/38" parentRatingKey="37" grandparentRatingKey="36" type="episode" title="Ryan Gosling/Leon Bridges" grandparentKey="/library/metadata/36" parentKey="/library/metadata/37" grandparentTitle="Saturday Night Live" contentRating="TV-14" summary="" index="7" parentIndex="41" rating="7.3" viewOffset="1897007" lastViewedAt="1449806128" year="2015" thumb="/library/metadata/38/thumb/1450629494" art="/library/metadata/36/art/1450629494" grandparentThumb="/library/metadata/36/thumb/1450629494" grandparentArt="/library/metadata/36/art/1450629494" grandparentTheme="/library/metadata/36/theme/1450629494" duration="3886286" originallyAvailableAt="2015-12-05" addedAt="1449633832" updatedAt="1450629494" chapterSource="">
+<Media videoResolution="720" id="67" duration="3886286" bitrate="1834" width="1280" height="720" aspectRatio="1.78" audioChannels="2" audioCodec="aac" videoCodec="h264" container="mkv" videoFrameRate="NTSC">
+<Part id="67" key="/library/parts/67/file.mkv" duration="3886286" file="M:\Television\Saturday Night Live\Season 41\Saturday Night Live - S41E07 - Ryan Gosling+Leon Bridges WEBDL-720p.mkv" size="890965071" container="mkv" />
+</Media>
+</Video>
+<Video allowSync="1" librarySectionID="1" librarySectionTitle="Movies" librarySectionUUID="3e577ee8-1b89-4f26-947c-0a07fa401847" ratingKey="64" key="/library/metadata/64" studio="PolyGram Filmed Entertainment" type="movie" title="The Usual Suspects" titleSort="Usual Suspects" contentRating="R" summary="Following a truck hijack in New York, five conmen are arrested and brought together for questioning. As none of them is guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser Söze is felt. It becomes clear that each one of them has wronged Söze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser Söze?" rating="7.8" viewOffset="121119" lastViewedAt="1449787958" year="1995" tagline="Five Criminals. One Line Up. No Coincidence." thumb="/library/metadata/64/thumb/1449640983" art="/library/metadata/64/art/1449640983" duration="6364072" originallyAvailableAt="1995-08-16" addedAt="1449640972" updatedAt="1449640983" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="media" primaryExtraKey="/library/metadata/65" ratingImage="rottentomatoes://image.rating.certified">
+<Media videoResolution="720" id="131" duration="6364072" bitrate="5901" width="1280" height="544" aspectRatio="2.35" audioChannels="6" audioCodec="dca" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="131" key="/library/parts/131/file.mkv" duration="6364072" file="M:\Movies\Usual Suspects, The (1995)\The Usual Suspects (1995) 720p Blu-ray.mkv" size="4694555714" container="mkv" />
+</Media>
+<Genre tag="Drama" />
+<Genre tag="Crime" />
+<Genre tag="Thriller" />
+<Writer tag="Christopher McQuarrie" />
+<Director tag="Bryan Singer" />
+<Country tag="USA" />
+<Role tag="Kevin Spacey" />
+<Role tag="Stephen Baldwin" />
+<Role tag="Gabriel Byrne" />
+</Video>
+<Video allowSync="1" librarySectionID="2" librarySectionTitle="TV Shows" librarySectionUUID="8fb29df7-38c1-4936-a07e-0a5aa68c1739" ratingKey="4" key="/library/metadata/4" parentRatingKey="3" grandparentRatingKey="2" type="episode" title="Summer Lovin&apos;" grandparentKey="/library/metadata/2" parentKey="/library/metadata/3" grandparentTitle="Modern Family" contentRating="TV-PG" summary="Haley’s attempt to stop Andy from proposing to Beth will end up with both Haley and Andy needing to cope with their emotions and both will have their own special ways of doing so, and Phil and Claire seem to only make matters worse. Jay and Gloria look at pre-schools for Joe and get a rude awakening after they realize the competitive wait list to get in. Meanwhile, Cam tries to remain supportive of Mitch’s midlife career crisis, but money is getting a little tight, so Cam comes up with a scheme to get Mitch’s old job back." index="1" parentIndex="7" rating="7.9" viewOffset="68396" lastViewedAt="1449632023" year="2015" thumb="/library/metadata/4/thumb/1449946700" art="/library/metadata/2/art/1449715610" grandparentThumb="/library/metadata/2/thumb/1449715610" grandparentArt="/library/metadata/2/art/1449715610" grandparentTheme="/library/metadata/2/theme/1449715610" duration="1296505" originallyAvailableAt="2015-09-23" addedAt="1449629401" updatedAt="1449946700" chapterSource="">
+<Media videoResolution="1080" id="2" duration="1296505" bitrate="5476" width="1920" height="1080" aspectRatio="1.78" audioChannels="6" audioCodec="ac3" videoCodec="h264" container="mkv" videoFrameRate="24p">
+<Part id="2" key="/library/parts/2/file.mkv" duration="1296505" file="M:\Television\Modern Family\Season 07\Modern Family - S07E01 - Summer Lovin&apos; WEBDL-1080p.mkv" size="887470926" container="mkv" />
+</Media>
+<Writer tag="Abraham Higginbotham" />
+<Director tag="Jim Hensz" />
+</Video>
+</MediaContainer>

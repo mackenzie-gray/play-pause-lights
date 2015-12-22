@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MediaContainer size="1">
+<Video addedAt="1450291844" art="/library/metadata/181/art/1450291868" audienceRatingImage="rottentomatoes://image.rating.upright" chapterSource="mixed" contentRating="R" duration="7550425" guid="com.plexapp.agents.imdb://tt1798709?lang=en" key="/library/metadata/181" lastViewedAt="1450731325" librarySectionID="1" originallyAvailableAt="2013-12-18" primaryExtraKey="/library/metadata/182" rating="7.9" ratingImage="rottentomatoes://image.rating.certified" ratingKey="181" sessionKey="32" studio="Annapurna Pictures" summary="In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user&apos;s every needs. To Theordore&apos;s surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all." tagline="A Spike Jonze Love Story" thumb="/library/metadata/181/thumb/1450291868" title="Her" type="movie" updatedAt="1450291868" viewOffset="1623499" year="2013">
+<Media aspectRatio="1.85" audioChannels="6" audioCodec="dca" bitrate="11526" container="mkv" duration="7550425" height="1036" id="302" videoCodec="h264" videoFrameRate="24p" videoResolution="1080" width="1920">
+<Part container="mkv" duration="7550425" file="M:\Movies\Her (2013)\Her (2013) 1080p Blu-ray.mkv" id="302" key="/library/parts/302/file.mkv" size="10878172379">
+<Stream bitDepth="8" bitrate="10020" cabac="1" chromaSubsampling="4:2:0" codec="h264" codecID="V_MPEG4/ISO/AVC" colorSpace="yuv" duration="7550425" frameRate="23.976" frameRateMode="cfr" hasScalingMatrix="0" height="1036" id="646" index="0" level="41" profile="high" refFrames="4" scanType="progressive" streamType="1" width="1920" />
+<Stream audioChannelLayout="5.1(side)" bitDepth="24" bitrate="1509" bitrateMode="cbr" channels="6" codec="dca" codecID="A_DTS" duration="7550422" id="647" index="1" language="English" languageCode="eng" samplingRate="48000" selected="1" streamType="2" />
+<Stream codec="srt" codecID="S_TEXT/UTF8" default="1" format="srt" id="648" index="2" language="Nederlands" languageCode="dut" streamType="3" />
+</Part>
+</Media>
+<Genre count="2" id="731" tag="Romance" />
+<Genre count="6" id="77" tag="Science Fiction" />
+<Genre count="5" id="262" tag="Drama" />
+<Writer id="847" tag="Spike Jonze" />
+<Director id="846" tag="Spike Jonze" />
+<Producer id="883" tag="Megan Ellison" />
+<Producer id="884" tag="Vincent Landay" />
+<Producer id="885" tag="Spike Jonze" />
+<Country count="16" id="81" tag="USA" />
+<Role id="848" role="Theodore" tag="Joaquin Phoenix" />
+<Role id="849" role="Samantha (voice)" tag="Scarlett Johansson" />
+<Role id="850" role="Catherine" tag="Rooney Mara" />
+<Role id="851" role="Amy" tag="Amy Adams" />
+<Role id="852" role="Blind Date" tag="Olivia Wilde" />
+<Role count="2" id="196" role="Paul" tag="Chris Pratt" />
+<Role id="853" role="Surrogate Date Isabella" tag="Portia Doubleday" />
+<Role id="854" role="Dr. Johnson" tag="Sam Jaeger" />
+<Role id="855" role="" tag="Katherine Boecher" />
+<Role id="856" role="Bikini Beach Babe" tag="Kelly Sarah" />
+<Role id="857" role="Alien Child (voice)" tag="Spike Jonze" />
+<Role id="858" role="Chat Room Friend #2 (voice)" tag="Bill Hader" />
+<Role id="171" role="SexyKitten (voice)" tag="Kristen Wiig" />
+<Role id="859" role="Alan Watts (voice)" tag="Brian Cox" />
+<Role id="860" role="Letter Writer #1" tag="Lynn A. Freedman" />
+<Role id="861" role="Letter Writer #2" tag="Lisa Renee Pitts" />
+<Role id="862" role="Letter Writer #3" tag="Gabe Gomez" />
+<Role id="863" role="Text Voice (voice)" tag="Artt Butler" />
+<Role id="864" role="Sexy Pregnant TV Star" tag="May Lindstrom" />
+<Role id="865" role="Charles" tag="Matt Letscher" />
+<Role id="866" role="Theodore&apos;s Divorce Attorney" tag="David Azar" />
+<Role id="867" role="Marriage Counselor" tag="Guy Lewis" />
+<Role id="868" role="Nice Lady" tag="Melanie Seacat" />
+<Role id="869" role="Pizza Vendor" tag="Pramod Kumar" />
+<Role id="870" role="Mother Who Dated Pricks" tag="Evelyn Edwards" />
+<Role id="871" role="New Sweet Boyfriend of Mother Who Dated Pricks" tag="Steve Zissis" />
+<Role id="872" role="Son" tag="Dane White" />
+<Role id="873" role="Daughter" tag="Nicole Grother" />
+<Role id="874" role="Catherine&apos;s Dad" tag="James Ozasky" />
+<Role id="875" role="Mother of Newborn" tag="Samantha Sarakanti" />
+<Role id="876" role="Lewman" tag="Luka Jones" />
+<Role id="877" role="Jocelyn (Birthday Girl)" tag="Gracie Prewitt" />
+<Role id="878" role="Uncomfortable Waitress" tag="Claudia Choi" />
+<Role id="879" role="Tatiana" tag="Laura Kai Chen" />
+<Role id="880" role="Voice of Isabella (voice)" tag="Soko" />
+<Role id="881" role="Grocery Shopper" tag="Wendy Leon" />
+<Role id="882" role="Busker / Dancer" tag="Lil Buck" />
+<User id="1" thumb="https://plex.tv/users/7ccea9f4e8028c67/avatar" title="nick-flix" />
+<Player machineIdentifier="dk9y1vrwo3" platform="Safari" product="Plex Web" state="paused" title="Plex Web (Safari)" />
+<TranscodeSession key="cib777clzzm" throttled="1" progress="23.100000381469727" speed="0" duration="7550000" remaining="62437" context="streaming" videoDecision="copy" audioDecision="transcode" protocol="hls" container="mpegts" videoCodec="h264" audioCodec="aac" audioChannels="6" width="1920" height="1036" />
+</Video>
+</MediaContainer>
